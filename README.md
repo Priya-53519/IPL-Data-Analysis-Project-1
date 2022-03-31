@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Priya-53519
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+This Project Based in IPL Data.
+Excel based project.
+Using some  Data Cleaning and Validation process in Power query editor.
+Make the relationship and created data view,Report view and table view.
+Its basically summarized the IPL team wise tota run.
+total number innings played in one year .
+created some masure and some calculated column using of DAX function.
+Showes the indivusual contribution of each and each batmans.
+ created a total number of  venue.
+ 
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/72062824/161097138-9877c68a-c2f5-4ee9-a97c-54ae3cb17159.png)
 
-<!---
-Priya-53519/Priya-53519 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
+
